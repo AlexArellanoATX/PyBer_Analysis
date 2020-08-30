@@ -51,17 +51,17 @@ This provided us all of the data needed to plot line graphs of the fare revenue 
 
 ## Summary
 The dataset shows that for the timeframe analyzed, there are very interesting differences between the markets, as measured by the type of city- Urban, Suburban or Rural:
-* Most of PyBer's fare revenue came from Urban city types, and this market also has the highest number of drivers who gave the biggest proportion of total rides-   
+* Most of PyBer's Fare revenue came from Urban city types, and this market also has the highest number of Drivers who gave the biggest proportion of total Rides-   
     * however the Urban market has the **lowest** Average Fare per Driver and Average Fare per Ride of any city type.
 
-* Suburban city types had the second largest total fare revenue generated for the period, and also has the second highest number of rides given and number of drivers. The Average Fare per Ride and Driver was in the middle, below those for Rural city types but higher than Urban city types.
+* Suburban city types had the second largest total Fare revenue generated for the period, and also has the second highest number of Rides given and second highest number of Drivers. The Average Fare per Ride and Driver was in the middle, below those for Rural city types but higher than Urban city types.
 
-* Rural city types had the lowest total fare revenue generated as well as the lowest number of rides given and the lowest number of drivers. The Average Fare per Ride and per Driver was the highest of any city type. 
+* Rural city types had the lowest total Fare revenue generated as well as the lowest number of Rides given and the lowest number of Drivers. The Average Fare per Ride and per Driver was the highest of any city type. 
 
-The graph plotting the weekly Fare revenue by type of city shows that Urban markets bring in the most fare revenue by far of the any of the 3 city types:
+The graph plotting the weekly Fare revenue by type of city shows that Urban markets bring in the most Fare revenue by far of the any of the 3 city types:
 * Urban city types generate about twice the Fare revenue that Suburban markets do, and about 9 times the Fare revenue that Urban market bring in. 
 
-* While weekly fare revenue moves higher and lower from week to week, more or less together across the 3 market types there do not seem to be any cyclical patterns, but the time frame analyzed may be too short to pick up any interesting trends.
+* While weekly Fare revenue moves higher and lower from week to week, more or less together across the 3 market types there do not seem to be any cyclical patterns, but the time frame analyzed may be too short to pick up any interesting trends.
 
 
 
@@ -71,8 +71,8 @@ The graph plotting the weekly Fare revenue by type of city shows that Urban mark
 
 * Since the drivers giving rides in Urban city types generate the bulk of total Fare revenue (about 60%) the company should maintain their main focus on this market, and work to increase their marketshare while taking care of their Urban drivers.
 
-* Consider spending advertising and marketing dollars to attract more new drivers to the Rural markets, this could be a strategy to increase overall revenue from the city type that has the highest fare per ride and driver rates across all markets. This may be the best return on investment of marketing budget as having more drivers in Rural areas may give PyBer a better chance of capturing more of the higher fares and grow their market share in this relatively more lucrative city type. 
+* Consider spending advertising and marketing dollars to attract more new drivers to the Rural markets, this could be a strategy to increase overall revenue from the city type that has the highest Fare per ride and driver rates across all markets. This may be the best return on investment of marketing budget as having more drivers in Rural areas may give PyBer a better chance of capturing more of the higher Fares and grow their market share in this relatively more lucrative city type. 
 
-* Another strategy that could increase revenue could be to incentivize Urban drivers to venture out to drive in the Suburbs around the Urban areas where they normally operate, as having more drivers in the relatively more lucrative city type (compared to Urban city types) could also raise overall fare revenue and market share and possibly offset the cost of potential incentives used. 
+* Another strategy that could increase revenue could be to incentivize Urban drivers to venture out to drive in the Suburbs around the Urban areas where they normally operate, as having more drivers in the relatively more lucrative city type (compared to Urban city types) could also raise overall Fare revenue and market share and possibly offset the cost of potential incentives used. 
 
 
